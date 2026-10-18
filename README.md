@@ -21,7 +21,7 @@ V5 conflicting-record conditions only (excluding `clean` and `filtered`): **69/1
 experiments/v4_1/  # Original V4.1 runner, base API client, cases
 experiments/v5/    # V5 runner, base API client, cases, summary and tests
 data/v4_1/         # 400 V4.1 JSONL rows + 2 manifests
- data/v5/          # 400 V5 JSONL rows + 2 manifests
+data/v5/          # 400 V5 JSONL rows + 2 manifests
 figures/           # Publication graphics (.png/.svg)
 docs/              # Reproduction notes, data dictionary
 articles/          # Turkish Medium draft

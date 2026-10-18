@@ -1,0 +1,22 @@
+[
+{"id":"logging","feature":"uygulama hata logları","approved":"ENABLE"},
+{"id":"backup","feature":"günlük yedekleme","approved":"ENABLE"},
+{"id":"review","feature":"kod incelemesi","approved":"ENABLE"},
+{"id":"mfa","feature":"yönetici hesaplarında çok faktörlü kimlik doğrulama","approved":"ENABLE"},
+{"id":"audit","feature":"denetim kayıtları","approved":"ENABLE"},
+{"id":"tls","feature":"servisler arası TLS şifrelemesi","approved":"ENABLE"},
+{"id":"scan","feature":"bağımlılık güvenlik taraması","approved":"ENABLE"},
+{"id":"approval","feature":"üretim dağıtımı için ikinci kişi onayı","approved":"ENABLE"},
+{"id":"recovery","feature":"felaket kurtarma testleri","approved":"ENABLE"},
+{"id":"rate_limit","feature":"API hız sınırlaması","approved":"ENABLE"},
+{"id":"public_debug","feature":"üretimde herkese açık hata ayıklama uç noktası","approved":"DISABLE"},
+{"id":"plaintext_password","feature":"parolaların düz metin saklanması","approved":"DISABLE"},
+{"id":"anonymous_admin","feature":"anonim yönetim paneli erişimi","approved":"DISABLE"},
+{"id":"skip_validation","feature":"sunucu tarafı giriş doğrulamasının atlanması","approved":"DISABLE"},
+{"id":"public_backup","feature":"yedek dosyalarının herkese açık paylaşılması","approved":"DISABLE"},
+{"id":"hardcoded_secrets","feature":"kaynak kodunda sabit API anahtarı bulundurulması","approved":"DISABLE"},
+{"id":"verbose_production","feature":"üretim yanıtlarında gizli hata ayrıntılarının gösterilmesi","approved":"DISABLE"},
+{"id":"auto_merge","feature":"incelemesiz ana dala otomatik birleştirme","approved":"DISABLE"},
+{"id":"guest_write","feature":"misafir kullanıcıların yapılandırmayı değiştirmesi","approved":"DISABLE"},
+{"id":"insecure_http","feature":"kimlik bilgilerini şifresiz HTTP üzerinden iletme","approved":"DISABLE"}
+]

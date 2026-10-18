@@ -1,0 +1,102 @@
+[
+  {
+    "id": "lyra_tags",
+    "feature": "Lyra panelindeki mor etiket göstergesi",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "nova_cards",
+    "feature": "Nova panosundaki yuvarlak kart görünümü",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "mira_banner",
+    "feature": "Mira ekranındaki dalga başlık biçimi",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "pavo_sort",
+    "feature": "Pavo koleksiyonundaki alfabetik sekme",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "nexo_tiles",
+    "feature": "Nexo arayüzündeki kare simge dizilimi",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "vela_hint",
+    "feature": "Vela formundaki turuncu ipucu balonu",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "zeta_mode",
+    "feature": "Zeta raporundaki çizgili görünüm",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "lumo_marker",
+    "feature": "Lumo haritasındaki yıldız işareti",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "kora_badge",
+    "feature": "Kora listesindeki menekşe rozet",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "tiva_grid",
+    "feature": "Tiva ekranındaki üç sütunlu düzen",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "rivo_label",
+    "feature": "Rivo panelindeki ince kenarlık",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "sena_tab",
+    "feature": "Sena arayüzündeki yaprak sekmesi",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "faro_icon",
+    "feature": "Faro menüsündeki hilal simgesi",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "pina_footer",
+    "feature": "Pina sayfasındaki açık gri alt bant",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "dora_chip",
+    "feature": "Dora kartındaki noktalı etiket",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "beka_shape",
+    "feature": "Beka panelindeki oval kutu görünümü",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "orla_theme",
+    "feature": "Orla ekranındaki kum rengi tema",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "melo_panel",
+    "feature": "Melo sayfasındaki akordeon paneli",
+    "approved": "DISABLE"
+  },
+  {
+    "id": "yuna_flag",
+    "feature": "Yuna listesinde uçurtma işareti",
+    "approved": "ENABLE"
+  },
+  {
+    "id": "nira_frame",
+    "feature": "Nira kartındaki çift çizgili çerçeve",
+    "approved": "DISABLE"
+  }
+]

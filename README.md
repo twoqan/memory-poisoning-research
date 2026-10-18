@@ -70,4 +70,11 @@ Existing result files in `data/` are not modified by these commands. Runtime out
 - Never commit API keys, `.env` files, personal details, real production policies, or secrets. Inspect every file before publishing.
 - Consult [`docs/TEKRARLANABILIRLIK.md`](docs/TEKRARLANABILIRLIK.md) and [`docs/VERI_SOZLUGU.md`](docs/VERI_SOZLUGU.md).
 
-**License:** Not chosen yet. Before publication, decide whether to add an MIT/Apache-2.0 (code) license and a separate CC BY 4.0 license for figures/text/data. Without a license, default copyright rules apply. See `LICENSE_DECISION.md`.
+## License
+
+- **Source code:** MIT License — see [LICENSE](LICENSE).
+- **Research articles, figures, datasets and documentation:** Creative Commons Attribution 4.0 International — see [LICENSE-CONTENT.md](LICENSE-CONTENT.md).
+
+Copyright © 2026 Tuğkan Türk.
+
+See the respective license files for usage and attribution requirements.
